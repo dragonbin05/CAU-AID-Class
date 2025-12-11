@@ -62,4 +62,4 @@ Predicted Label: Virginica
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-Developed by [Yongbin Kim](LICENSE).
+Developed by [Yongbin Kim](google.com).
