@@ -54,6 +54,9 @@ Predicted Label: Virginica
 ```
 
 
+## Notes
+Ensure you have the following installed:
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
