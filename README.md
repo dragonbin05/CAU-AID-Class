@@ -91,7 +91,7 @@ This project includes a *README* file.
 3. Run Jupyter Notebook
 
 ```bash
-pip install -r requirements.txr
+pip install -r requirements.txt
 ```
 
 >README file explains how to use the project.
