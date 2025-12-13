@@ -97,4 +97,4 @@ pip install -r requirements.txr
 >README file explains how to use the project.
 
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
-Format: ![Streamlit Example](https://example.com/streamlit.png)
+![Streamlit Example](https://example.com/streamlit.png)
