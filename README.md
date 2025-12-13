@@ -73,6 +73,7 @@ Developed by [Yongbin Kim](주소url).
 
 
 # 연습하기
+`k`
 
 # Artificial Intelligence Design
 ## README File
