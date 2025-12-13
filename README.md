@@ -63,3 +63,38 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 Developed by [Yongbin Kim](주소url).
+
+
+
+
+
+
+
+
+
+# 연습하기
+
+# Artificial Intelligence Design
+## README File
+### Installation
+
+**Markdown** is used to write README files.
+
+This project includes a *README* file.
+
+- Python
+- Conda
+- Jupyter
+
+1. Create virtual environment
+2. Install packages
+3. Run Jupyter Notebook
+
+```bash
+pip install -r requirements.txr
+```
+
+>README file explains how to use the project.
+
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+Format: ![Streamlit Example](https://example.com/streamlit.png)
